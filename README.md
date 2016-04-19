@@ -1,7 +1,7 @@
        
-       #Progetto Alternanza Scuola Lavoro, classe 3AEL
+       # Progetto Alternanza Scuola Lavoro, classe 3AEL
        
-       ##Diario di Bordo
+       ## Diario di Bordo
        La verione completa è presente nel file "Diario di Bordo.ods"
        
        Data       |Ora| Descrizione
