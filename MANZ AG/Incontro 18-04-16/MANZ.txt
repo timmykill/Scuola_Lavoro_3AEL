@@ -1,0 +1,51 @@
+	-----------------------------------------------------------------MANZ AG azienda tedesca (Reautlingen= Sede centrale) 2.000 dipendeti nel mondo
+	|								    |					
+	|						--------------------|					*Italia		-> Stabilimento di produzione (Sasso Marconi).
+	|						|		    |					*Slovacchia	-> Stabilimento di produzione.
+	|						|	   Azienda Manifatturiera			*Cina		-> Stabilimento di produzione.
+	|						|		    |					*USA, Singapore	-> Uffici commmerciali.
+    ORGANIGRAMMA					|                Produce:
+Definisce chi ha autorità				|	   	-Pannelli Fotovoltaici
+	su chi.						|		-Materiali per la creazione di schermi Touch Screen
+	|  						|		-Macchinari per la produzione delle batterie al litio
+	|						|								|
+	|					    La storia:								|
+	|				Nel 2007 un'azienda Americana ha						|
+Amministratore Delagato			acquistato l'Arco (azienda italiana					   Specifiche:
+	|				che era speciallizata in condensatori					   *Tempo/Ciclo (Es. 1 batteria al minuto) 
+	|				e macchine di produzione) e chiude le 					   *Dimensioni
+ -------|--------------------		due sedi di Vergato e Monghidoro.					   *Durata
+ |		   | 	    |		Nel 2014 Manz acquisisce la produzione 
+ |		   | 	    |		delle macchine.
+Amministrazzione   |    Assistenti
+(Finanza)	   |    (Burocrazia)
+	           |
+	------------------------------------
+	|	    |		|	   |
+	|	    |		|	   |
+	|	    |		|          |
+    Meccanici,	  Ufficio    Venditore  Costi
+    Elettronici	  Acquisti
+
+
+
+
+
+
+Divisione dei compiti:
+
+
+
+    I				II			III					IV		     V
+
+ CLIENTE		       P.O.		    U.T,B.O.M,V.A			    PRODUTTORI		    SAT
+    |				|			 |							     |
+    |				|			 |							     |
+  SALES			     SPECIFICA		      CLIENTE							   TEST
+  *Planning		     (Kick-off meeting)	      (FAT= Factory Acceptace Test)
+  *Ufficio Tecnico	     *Meccanico
+  *Cosm  		     *Elettronico
+			     *Venditore
+			     *Costi
+			     *PM(produttore)
+			     *EL(produttore)
