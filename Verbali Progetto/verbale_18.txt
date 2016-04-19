@@ -1,0 +1,15 @@
+Soggetto della lezione:  Disposizione della classe a forma di isola, discussione sulla piataforma di condivisione ed elaborazione dati. Discusione sul progetto da svolgere  
+
+Idee e proposte per il progetto: - Badge GPS per la presenza in azienda
+                                 - Badge Wi-Fi per lapresneza in azienda
+                                 - Potenziamento del sensore delle scarpe [ACCETTABILE]  
+                                 - Segnalatori di direzionie per la bici [ACCETTABILE]
+                                 - Controllo e amministrazione delle centraline delle moto (Rimapatura) [ACCETTABILE]
+                                 - Progetto a medio-lungo termine [ACCETTABILE]
+                                 - Strumentazione agonistica [ACCETTABILE]
+                                 - Tigellatrice automati[CANCELLATO: troppoppo difficile] 
+                                 - Sistema blocco dipendenti [CANCELLATO: non funziona]
+                                 - Sistema contro Grip moto [CANCELLATO: esistono gia nella produzione]
+                                 - Luci domotizzate [ACCETTABILE]
+
+Problematiche: Informazioni piu approfondite sulla privacy

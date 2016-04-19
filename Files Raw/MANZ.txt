@@ -1,23 +1,51 @@
-SASSO MARCONI
-5000 m^2
-Batterie Li-On
-Condensatori
+	-----------------------------------------------------------------MANZ AG--->azienda tedesca (Reautlingen= Sede centrale), con 2.000 dipendeti nel mondo.
+	|								            |					
+	|								    |					*In Italia-> Uno stabilimento di produzione a Sasso Marconi.
+	|								    |					*In Slovacchia-> Uno stabilimento di produzione.
+	|							   Azienda Manifatturiera			*In Cina-> Uno stabilimento di produzione.
+	|								    |					*IN USA e Singapore-> Uffici commmerciali.
+    ORGANIGRAMMA					-----------------Produce:
+Definisce chi ha autorità				|	   	-Pannelli Fotovoltaici
+	su chi.						|		-Materiali Touch
+	|  						|		-Macchinari per la produzione delle batterie al litio
+	|						|								|
+	|					    La storia:								|
+	|				Nel 2007 un'azienda Americana ha						|
+Amministratore Delagato			acquistato l'Arco (azienda italiana					   Specifica:
+	|				che era speciallizata in condensatori					   *Tempo ciclo= es. 1 batteria al minuto 
+	|				e macchine di produzione) e chiude le 					   *Dimensioni
+ -------|--------------------		due sedi di Vergato e Monghidoro.					   *Durata
+ |		   | 	    |		Nel 2014 Manz acquisisce la produzione 
+ |		   | 	    |		delle macchine.
+Amministrazzione   |    Assistenti
+(Finaza)	   |    (Burograzia)
+	           |
+	------------------------------------
+	|	    |		|	   |
+	|	    |		|	   |
+	|	    |		|          |
+    Meccanici	  Ufficio    Venditore  Costi
+    Elettronici	  Acquisti
 
 
-ORGANIGRAMMA
-
-Organigramma Verticale --> MANZ
-Organigramma Orizzontale --> Piu' competitivo
 
 
-DIPARTIMENTI
-
-Marketing: 		Vendere i prodotti (VEDI SCRUBS)
-Progect Managment:	
-Motion: 		Programmazione in 3D degli automi da produzione
-Ufficio acquisti: 	Comprare la materia prima tenendo conto di prezzi e tempi
 
 
-PRODOTTI
+Divisione dei compiti:
 
-Macchinari "Buisness to Buisness" --> non acquistabili dal pubblico
+
+
+    I				II			III					IV		     V
+
+ CLIENTE		       P.O		    U.T,B.O.M,V.A			    PRODUTTORI		    SAT
+    |				|			 |							     |
+    |				|			 |							     |
+  SALES			     SPECIFICA		      CLIENTE							   TEST
+  *Planning		     (Kick-off meeting)	      (FAT= Factory Acceptece Test)
+  *Ufficio Tecnico	     *meccanico
+  *Cosm  		     *elettronico
+			     *venditore
+			     *costi
+			     *PM(produttore)
+			     *EL(produttore)

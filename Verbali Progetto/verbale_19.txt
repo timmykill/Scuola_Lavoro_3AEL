@@ -1,0 +1,38 @@
+Soggetto della lezione:  Disposizione della classe a forma di isola, discussione sulla piataforma di condivisione ed elaborazione dati. Discusione sul progetto da svolgere  
+                         Scelta del moderatore: Bertoni Marco
+Idee e proposte per il progetto: - Badge GPS per la presenza in azienda [Cancellato mancanza di conoscenze sulla privacy]
+                                 - Badge Wi-Fi per lapresneza in azienda [Cancellato mancanza di conoscenze sulla privacy]
+                                 - Potenziamento del sensore delle scarpe [ACCETTABILE]  
+                                 - Segnalatori di direzionie per la bici [ACCETTABILE]
+                                 - Controllo e amministrazione delle centraline delle moto (Rimapatura) [ACCETTABILE]
+                                 - Progetto a medio-lungo termine [ACCETTABILE]
+                                 - Strumentazione agonistica [ACCETTABILE]
+                                 - Tigellatrice automati[CANCELLATO: troppo difficile] 
+                                 - Sistema blocco dipendenti [CANCELLATO: non funziona]
+                                 - Sistema contro Grip moto [CANCELLATO: esistono gia nella produzione]
+                                 - Luci domotizzate [ACCETTABILE]
+
+Problematiche: Informazioni piu approfondite sulla privacy
+
+
+
+
+
+
+Soggetto ddella lezione: Rielaborazione delle idee progettuali
+
+Rielaborazioni delle idee accettabili del giorno precedente:			
+                                                                      
+                                                                    Idee Cancellate:
+                                  - Potenziamento del sensore delle scarpe [CANCELLATO perche' gia in vendita]
+                                  - Controllo e amministrazione delle centraline delle moto (Rimapatura) [Cancellato troppo complicato]
+                         
+                                                                    Idee Accettabili:
+				  - Strumentazione agonistica
+			   	  - Seganlatori di direzione per la bici
+                                  - Luci domotizzate
+
+
+Discussioni sull'utilizzo del PLC e Arduino. Confronto fra le due piattaforme(Costi, dimensioni, funzionamento). Discussione sui segnalatori delle bici, opinioni pro e contro.
+
+Dicussioni genera relative al segnalatore per la bici, riguardanti utilita' e fattibilita'.
