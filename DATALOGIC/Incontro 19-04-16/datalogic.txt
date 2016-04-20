@@ -1,18 +1,19 @@
 DATALOGIC
-Il Gruppo Datalogic è uno dei principali produttori di lettori di codici a barre, identificatori, sensori, sistemi di visione e marcatura laser. I suoi prodotti vengono utilizzati nel settore manifatturiero, nella logistica e nei trasporti, oltre che nel comparto della grande distribuzione.
+Il Gruppo Datalogic Ã¨ uno dei principali produttori di lettori di codici a barre, identificatori, sensori, sistemi di visione e marcatura laser. I suoi prodotti vengono utilizzati nel settore manifatturiero, nella logistica e nei trasporti, oltre che nel comparto della grande distribuzione.
+Guarda esempi dei principali TIPI di fotocellule e SCHEMA A BLOCCHI di una fotocellula tra i file PNG inseriti in questa stessa cartella
 
 REALIZZAZIONE DI UN PROGETTO
 Per realizzare un progetto bisogna seguire delle procedure:
-1. INDAGINE DI MERCATO (es: concorrenza…)
+1. INDAGINE DI MERCATO (es: concorrenzaâ€¦)
 2. SPECIFICHE: si dividono in MARKETING(adeguatezza per il cliente) e TECNICA(caratteristiche tecniche).  Es:
 _______________________________________________________________________________________
 		    |	MARKETING		|		TECNICA                |
 ____________________|___________________________|______________________________________|
 Dimensione :        |     piccola               |                10x20x30 mm           |
-Alimentazione :     |    corrente DC            |           24V±15%           150mA    |
+Alimentazione :     |    corrente DC            |           24VÂ±15%           150mA    |
 Cavo collegamento : |      lungo                |          5m            caduta:300mV  |
 ____________________|___________________________|______________________________________|
-3. FATTIBILITA’: bisogna verificare che sia possibile creare il progetto. Bisogna verificare se esistono altri brevetti riguardanti il proprio progetto e realizzarne uno o più brevetti se necessario per difendere le proprie innovazioni.
+3. FATTIBILITAâ€™: bisogna verificare che sia possibile creare il progetto. Bisogna verificare se esistono altri brevetti riguardanti il proprio progetto e realizzarne uno o piÃ¹ brevetti se necessario per difendere le proprie innovazioni.
 4. PROTOTIPO: bisogna realizzare un prototipo per misurare le prestazioni del proprio prodotto, verificando che non ci siano problemi e bisogna legalizzare il tutto tramite i marchi CE e altri.
 5. PRESERIE: vengono realizzati in serie un numero moderato di prodotti per verificare se i clienti non trovino delle anomalie.
-6. SERIE: il prodotto viene realizzato in serie se tutto si è svolto positivamente.
+6. SERIE: il prodotto viene realizzato in serie se tutto si Ã¨ svolto positivamente.
