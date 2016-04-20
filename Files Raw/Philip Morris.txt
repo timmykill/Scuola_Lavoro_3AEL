@@ -1,0 +1,64 @@
+Azienda: Philip MOrris
+Sogetto: Business Plan
+
+Business plan è un documento cartaceo dove sono integrate tutte le caratteristiche e le specifi-
+che del prodotto.
+
+LE caratteristiche che ci devono essere dentro il business plan:
+
+- Nome dell'azienda e nome del prodotto 
+
+- I nomi dell'imprenditore e del project5 leader
+
+- Descrizione dell'obiettivo del progetto(Obiettivi e benefici)
+
+- Analisi del contesto
+           |
+           |
+ il mercato di riferimento,
+ analisi del competitor,
+ grandezza del mercato,
+ analisi del territorio.
+
+- I tempi
+Milestones= micro obiettivi del progetto stesso che indica di quanto si è lontani dalla conclu-
+            sione del progetto
+
+            Diagramma di Gannt
+__________________
+|Milestone1| | | |        
+|__________|_|_|_|---------giorni,settimane o mesi
+|°Task1    | | | |
+|°Task2    | | | |---------attività e specifiche per riuscire a rispettare le tempistiche per la
+|°Task3    | | | |         conclusione
+|__________|_|_|_|
+
+-I costi-------------------------------------------------------------------------     |
+     |                                          |                                |  
+   Fissi                                    Variabili                      Finanzionari
+costo che devo sostenere                  alcuni stipendi per i          costi sulle tasse, 
+sempre; le bolette di luce,gas.           funzionari(in caso di          spese doganali
+Stipendi di alcuni funzionari             assunzione temporale.
+                                          Costo del valore pro-
+                                          duttivo
+
+- Risk Assessment(Valutazione dei rischi)
+         
+         |Probabilità| Importo         | Attività      |             Hardship bonus
+_______________________________________________________|                    |
+|Rischio1|   Bassa   | Alto/Medio/Basso| Hardship bonus|           Più soldi al lavoratore 
+|        |           |                 |               |           per fare un lavoro con 
+|        |           |                 |               |           un impatto alto e più 
+|________|___________|_________________|_______________|           rischioso 
+
+
+
+         R A C I (Responsible accountable consulted informed)
+                    |           |            |           | 
+          ----------|      -----|            |------     |-------------------------
+          |                |                       |                              |
+  deve fare disporre    responsabile di fare    persone che vengono       persone che devono 
+  all'accountable       le cose affinché si     consultate per avere      essere informate e 
+  risorse e sostegno    raggiunga l'obbiettivo  dei pareri per produrre   devono conoscere de-
+                                                                          terminate attività
+
