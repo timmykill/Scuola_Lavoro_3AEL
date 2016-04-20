@@ -1,11 +1,11 @@
 # Lista Studenti della Classe 3AEL e i loro relativi nickname
 Androniachi Nichita   = Nichita-FC
 Bertoni Marco         = timmykill
-Bianco Vincenzo       = 
+Bianco Vincenzo       = IlGrandeInquisitore
 Bongiovanni Simone    = LaPertica
 Boutkayud Abderahmane =
 Caldarone Luca        = Arrosto
-Calzolari Alessandro  = Sky Hard
+Calzolari Alessandro  = SkyHard
 Capolli Fabio         = capocc99
 Cristea Gabriel       = g4bri3cr
 Malandra Francesco    = MALANdrumm3r
