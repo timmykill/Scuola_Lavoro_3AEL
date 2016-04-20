@@ -5,7 +5,7 @@
 
 Data       |Ora| Descrizione
 ---------- | - | -----------------------------------------------
-18/04/2016 | 1 | Intruduzione al progetto Scuola Lavoro 
+18/04/2016 | 1 | Intruduzione al progetto Scuola Lavoro
            | 2 | Incontro con rappresentante della MANZ AG
            | 3 | Incontro con rappresentante della MANZ AG
            | 4 | Impostazione piattaforma AMPLIO (non riuscita)
