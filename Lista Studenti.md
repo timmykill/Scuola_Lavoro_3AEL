@@ -17,5 +17,5 @@ Monciatti Matteo      |
 Montella Giampiero    |
 Ramos Carlos Miguel   | carlitos99
 Ricci Thomas          |
-Roffi Michele         |
+Roffi Michele         | micheleroffi
 Ruga Guido            | GuidoRuga
