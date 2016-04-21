@@ -1,0 +1,242 @@
+
+SITE
+
+
+la SITE nasce nel 1947 come azienda che lavorava per Telecom, costruiva le linee telefoniche e poi sono sorti altri business.
+
+le sue attività ora sono:
+
+_Telecomunicazioni;
+
+_Trasporti: Impianti di segnalamento, sicurezza ferroviaria, sensori per la distanza tra i treni e per controllare se un binario è occupato;
+
+_Networking: Cablaggio strutturato, impianti anche wi-fi;
+
+_Sicurezza e Controllo: Video Sorveglianza;
+
+_Energia: Impianti elettrici, impianti fotovoltaici, LED per risparmio energetico.
+
+
+Alla costruzione delle linee telefoniche si affiancano:
+
+_DIVISIONE RICERCA E SVILUPPO: Nuovi brevetti e prodotti, soprattutto sui trasporti;
+
+_ingegnerie: progettazione e presentazione ai clienti.
+
+
+SEDI:
+
+In tutta Italia, ma nata a Bologna, le sedi internazionali sono in Algeria, Croazia ed Emirati Arabi.
+
+
+L'azienda è composta da 1400 dipendenti ed il fatturato è intorno ai 210 milioni di Euro.
+
+
+
+
+Organigramma:
+
+
+
+                                              				 Amministratore
+                                                  			    delegato
+						    			       |
+						     			       |
+  						   			       |
+    						     			       |
+						     			       |                    Direttore
+			   			     Direzione ________________|___________________ amministratore
+                          			    commerciale                |                    finanza
+                                                			       |
+                                                			       |
+                                                  			       |
+                                                    			       |
+                                                    		 	       |
+                                               Servizio qualità                |
+                                                  sicurezza e  ________________|__________________ Ufficio 
+                                                   ambiente	               |                   legale
+                                                    			       |
+                                                    			       |
+                                                			       |
+                                                  			       |
+                                                       Ingegneria _____________|
+                                                    			       |
+                                                			       |
+                            ___________________________________________________|______________________________________________________________
+                            |                                                  |                                                             |
+                            |                                                  |                                                             |
+                            |                                                  |                                                             |
+                            |                                                  |                                                             |
+                            |                                                  |                                                             |
+                            |                                                  |                                                             |
+                       Vicedirettore                                     Responsabile                                                  Vicedirettore
+                    generale operazioni                               divisione trasporti                                             generale servizi
+                            |                                                                                                                |
+                            |                    			                                                                     |
+                            |                      			                                                                     |
+                            |                        			                                                                     |
+                            |                        		 	                                            Servizio_________________|_______________Direzione
+                            |                                                                                affari generali                 |               personale
+       _____________________|_______________________											     |	
+       |                    |                      |											     |																															
+       |                    |                      |											     |										
+       |               Linea tecnica               |											     |					
+       |                 wireline                  | 							           Controllo_________________|_______________Servizio					                     
+       |                                           |								  e gestione	             |		     approvigionamenti
+       |                                           |											     |			
+  Linea tecnica                              linea tecnica                                                                                   |
+    wireless                               sistemi ed energia                                                                                | 
+                                                                                                                                             |
+																	     |
+                                                			                                                                     |
+                    Responsabile                                                 			       				     |
+                      filiale                             			      							     |
+                        |                           		 	       								     |
+			|													          Servizio 
+			|													     sistemi informatici
+  Aministrazione________|________Magazzino																
+    personale		|
+			|
+			|
+			|
+			|			
+   contabilità__________|		
+     lavori		|
+			|
+			|
+			|
+			|
+			|
+      __________________|___________________
+      |			|	           |
+      |			|	           |
+      |		        |	           |
+      |		        |	           |
+      |        Assistente tecnico          |
+      |              energia               |
+      |				           |
+      |                                    |
+      |                             assistente tecnico
+      |                                  retemobile
+      |
+      |
+      |
+      |
+      |
+ assistente tecnico
+   rete fissa
+          |
+          |
+          |
+    ______|_______
+    |            |
+  squadra    squadra 2
+
+
+
+
+Telecomunicazioni
+
+
+       
+   
+
+             Rete di 
+            trasporto
+     	        |
+		|
+		|
+		|
+		|
+	    Centrale_________________________Armadio______________________Utente
+									  filiale
+
+
+
+
+Rete TLC: Scenari
+
+
+
+
+          Rete di trasporto		   ____________________FTTB/FTTH
+		|			   |
+		|			   |
+		|                          |
+		|                       Armadi_________________
+		|			   |
+		|			   |
+		|		 	   |
+		|			   |	
+		|			   |	
+	     Centrale___________________Armadi_________________________FTTC
+		|                                   |
+		|				    |
+		|				    |
+    		|				    |__________________VDSL
+		|
+		|
+		|
+		|
+		|
+		|
+              Armaiolo__________________________________________ADSL
+
+
+
+
+
+
+
+
+Fasi di lavorazione: 
+
+
+ Progettazione___________Costruzione rete:
+			  _infrastrutture
+			  _posa cavi
+			  _posa terminazioni
+			  _collaudi e misure
+				  |
+				  |
+				  |
+				  |
+				  |
+				  |   
+			Installazione apparati attivi:
+			_installazione apparati
+			_configurazione apparati       ___________________________Attivazione utente:
+			_collaudo StanAlone					_costruzione raccordo d'utente			_________________________________Manutenzione
+			_commissione						_installazione/configurazione apparati cliente					_clienti filiali
+																				_rete passiva
+																				_apparati attivi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
