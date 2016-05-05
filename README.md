@@ -1,7 +1,5 @@
-﻿<!DOCTYPE html>
 <html>
 <head>
-	<title>Progetto Alternanza Scuola Lavoro, classe 3AEL</title>
 <style>
 table, th, td {
     border: 1px solid black;
