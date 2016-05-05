@@ -1,18 +1,72 @@
-# Progetto Alternanza Scuola Lavoro, classe 3AEL
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Progetto Alternanza Scuola Lavoro, classe 3AEL</title>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+}
+</style>
+</head>
+<body>
 
-## Diario di Bordo
-   La verione completa è presente nel file "Diario di Bordo.ods"
+<h1>Progetto Alternanza Scuola Lavoro, classe 3AEL</h1>
+<h3>Diario di Bordo</h3>
+<p>La verione completa è presente nel file "Diario di Bordo.ods"</p>
 
-Data       |Ora| Descrizione
----------- | - | -----------------------------------------------
-18/04/2016 | 1 | Intruduzione al progetto Scuola Lavoro
-           | 2 | Incontro con rappresentante della MANZ AG
-           | 3 | Incontro con rappresentante della MANZ AG
-           | 4 | Impostazione piattaforma AMPLIO (non riuscita)
-           | 5 | Idee progettuali
-19/04/2016 | 1 | Spiegazione github.com e idee progettuali
-           | 2 | Incontro con rappresentante Philip Morris
-           | 3 | Incontro con rappresentante Philip Morris
-           | 4 | Incontro con rappresentante Datalogic
-           | 5 | Incontro con rappresentante Datalogic
-           | 6 | Idee Progettuali
+<table style="width:50%">
+  <tr>
+    <th>Data</th>
+    <th>Ora</th>		
+    <th>Descrizione</th>
+  </tr>
+  <tr>
+    <td rowspan = "5">18/04/2016</td>
+    <td>1</td>		
+    <td>Intruduzione al progetto Scuola Lavoro</td>
+  </tr>
+  <tr>
+    <td>2</td>		
+    <td>Incontro con rappresentante della MANZ AG</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Incontro con rappresentante della MANZ AG</td>		
+  </tr>
+  <tr>
+    <td>4</td>		
+    <td>Impostazione piattaforma AMPLIO (non riuscita)</td>
+  </tr>
+  <tr>
+    <td>5</td>		
+    <td>Idee progettuali</td>
+  </tr>
+  <tr>
+    <td rowspan = "5">19/04/2016</td>
+    <td>1</td>		
+    <td>Spiegazione github.com e idee progettuali</td>
+  </tr>
+  <tr>
+    <td>2</td>		
+    <td>Incontro con rappresentante Philip Morris</td>
+  </tr>
+  <tr>
+    <td>3</td>		
+    <td>Incontro con rappresentante Philip Morris</td>
+  </tr>
+  <tr>
+    <td>4</td>		
+    <td>Incontro con rappresentante Datalogic</td>
+  </tr>
+  <tr>
+    <td>5</td>		
+    <td>Incontro con rappresentante Datalogic</td>
+  </tr>
+</table>
+
+</body>
+</html>
