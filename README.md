@@ -1,8 +1,4 @@
-<head>
-	<title>Progetto Alternanza Scuola Lavoro, classe 3AEL</title>
-</head>
 <body>
-
 <h1>Progetto Alternanza Scuola Lavoro, classe 3AEL</h1>
 <h3>Diario di Bordo</h3>
 <p>La verione completa è presente nel file "Diario di Bordo.ods"</p>
