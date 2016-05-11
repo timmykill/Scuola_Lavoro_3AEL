@@ -2,7 +2,8 @@
 <html>
 <head>
 	<title>Progetto Alternanza Scuola Lavoro, classe 3AEL</title>
-<style>
+<!-- 
+x<style>
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -11,6 +12,7 @@ th {
     text-align: left;
 }
 </style>
+!-->
 </head>
 <body>
 
