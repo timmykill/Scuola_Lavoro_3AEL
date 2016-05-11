@@ -1,0 +1,161 @@
+ Lista dei principali concorrenti:
+
+- Smart Home_________________________________________________________________________________________> Samrt Home Ecosystem superera 71 miliardi di euro di fatturato annuo di nel 2018 
+                     | 
+                     }-----> tutte due hanno incrementato il loro fatturato annuo di 16,1%
+                     |
+- Home automation____|-------------------------------------------------------------------------------> Home Automation ha gia raggiunto 33 miliardi di dollari nel 2016
+
+
+
+Numeri impianti domotici(dato piu recente):
+
+Impianti base       Impianti avanzati 
+   25000                  3000
+     |____________________|            
+               |
+ Questi dati risalgono a 2008 e ogni anno abbiamo un incremento di impianti base di circa 7000 impianti 
+  e un incremento avanzati di circa 1000 impianti
+
+ 
+    
+
+La domotica in Italia si divide in 4 segmenti:
+
+-1 segmento------------>applicazioni avanzate 
+                                  |
+      Vede protagonista abitazioni estese come ville e residenze private di pregio
+      Richiedono un un progetto personalizzato che coinvolge il progettista o 
+      l'architetto.
+
+-2 segmento------------>impianti realizzati dall'installatore direttamente sul utente finale
+                                                    |
+                           L'utente faa esplicita richiesta per il proprio appartamento
+
+-3 segmento------------>impianti base 
+                              |
+                       forniti a capitolato dalle imprese di costruzione
+
+-4 segmento----------->applicazioni specifiche
+                              |
+                       applicazioni destinate ad anziani e disabili
+
+
+
+Le fasce del mercato della domotica:
+      __________________ |_______________________________ 
+     |                                                   |
+applicazioni avanzate caratterizzata            impianti di base resi disponibili->sono di una domanda sempre piu in crescita 
+da un utenza evoluta che conosce gia            dalle imprese di costruzione     - 
+la tecnologia domotica e ne apprezza                                        
+i vantaggi
+
+
+
+
+Il mercato internazionale della domotica e' in grande crescita e supera il 30%. Le aziende infatti 
+investono sia per lo sviluppo di nuove soluzioni sia per la creazione di reti commerciali. Per questo 
+l'Unione Europea favorisce questo trend con diversi progetti coordinati dal CENELEC, il Comitato 
+Europeo per lo standard nel settore elettrotecncio.
+
+
+
+
+La proiezione di mercato in Italia fatta da Assodomotica prevede un aumento di sistemi avanzati con 
+elevate personalizzazioni. La tendenza dei progettisti e' di realizzare impianti domotici in abitazioni
+nuove o ristrutturate. In Italia si costruiscono 300000 abitazioni all'anno e se ne ristrutturano 
+700000 con il completo rifacimento dell'impiantistica. Questo anno e soprattutto l'anno prossimo si 
+prevede una flessione di questi numeri e soprattutto del mercato elettrico. 
+
+
+
+A cosa sono interessati gli utenti?
+Gli utenti sono interessati alla sicurezza dell'impianto, al risparmio rispetto all'impianto 
+tradizionale, ai vantaggi e al controllo dalla distanza, al facile utilizzo del impianto,
+ad un impianto efficace che non costi tanto.
+
+
+
+
+Chi sono gli acquirenti? 
+Dato che il costo del prodotto parte da circa 1000 euro, gli acquirenti saranno coloro che 
+dispongono di questa somma e il luogo dove possa essere installato 
+
+
+
+
+Quali sono i leader internazionali?
+L'America del Nord mantiene la leadeship mondiale della domotica grazie alla crescita del mercato
+delle costruzioni. Poi segue il mercato del Asia-Pacifico e L'Europa.
+
+
+
+
+Domanda in Italia:
+1.Milano
+2.Padova
+3.Verona
+4.Brescia
+5.Cagliari
+6.Como
+7.Alessandria
+8.Bergamo
+9.Trieste
+10.Pisa
+
+
+System integrator italiani:
+ 
+Azienda      |Localita          |Prodotto|
+_____________|__________________|________|
+ViviDomotica |Mariana di Carrara|Vari    |
+_____________|__________________|________|
+Satellite    |Parma             |Easydom |
+_____________|__________________|________|
+microSolution|Novara            |ideapiu |
+_____________|__________________|________|
+Domoticalabs |Cuneo             |Vari    |
+_____________|__________________|________|
+
+
+
+         Struttura del mercato:
+
+                                                  Fornitori
+                                                      |
+                                           Potere contrattuale dei
+				                  fornitori
+                                                      |
+          Potenziali---------Minaccia di-------->Concorrenti<----------Minaccia di prodotti---------Prodotti
+          entranti            di nuove            del settore           o servizi sostitutivi        sostitutivi
+	                     entrate                  |
+                                                      |
+			                   Potere contrattuale degli
+					         acquirenti
+						      |
+					         Acquirenti
+
+
+Analisi SWOT- Forza e debolezza prodotto
+Punti di forza del prodotto:               Punti di debolezza del prodotto:
+-Facile da usare                           -Reputazione produttore sconosciuto
+-Facile da installare                      -Design inbterfaccia migliorabile
+-Economico
+-Stabile
+-Sicuro
+
+
+
+Analisi SWOT- Minacce
+Le minacce di potenziali entranti sono reali e concrete soprattutto dal
+lato dei produttori informatici.
+Le minacce di prodotti sostitutivi arrivano da tutti i tipi di interfaccia user  friendly come gli smartphone, palmari e tablet.
+
+
+Building Automation(dove puo essere installato):
+1.Abitazioni private         7.Banche
+2.Aree condominiali          8.Centri commerciali
+3.Uffici                     9.Scuole e campus
+4.Aziende                   10.Cinema
+5.Alberghi                  11.Teatri
+6.Ospedali                  12.Stazioni metropolitane

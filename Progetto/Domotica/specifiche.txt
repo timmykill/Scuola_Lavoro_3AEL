@@ -1,0 +1,34 @@
+Specifiche del progetto/tapparelle:
+
+-Reagiscono in base alla luce -------> piu c'e' luce, la tapparella si abbassa;
+
+- Timmer sincronizzato; 
+
+- Pulsante superuser;
+
+
+
+
+
+
+Specifiche:
+               __________________
+- Sensori porte;                 |
+                                 |
+- Luci domotizzate;              |
+                                 |
+- Sensori temperatura;           |
+                                 |
+- Garage;                        |
+                                 |
+- Irrigazione;                   }----------> Le specifiche piu importante
+                                 |
+- Entrate smart;                 |
+                                 |
+- Impianti sicurezza;            | 
+                                 |
+- Controllo prese;               |
+                                 |                     
+- Server;                        |     
+                                 |
+- Intelligenza artificiale;______|

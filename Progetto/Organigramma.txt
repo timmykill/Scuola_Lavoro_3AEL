@@ -1,0 +1,20 @@
+                        ORGANIGRAMMA
+
+                        Amm.Delegato
+                      Stefano Mirandola
+
+Elettronica				Informatica				Amministrazione
+                        
+Bongio                  Ruga                    Analisi: Andronachi
+Roffi                   Caldarone PM                     Monciatti
+Ramos TL/PM             Bertoni TL/PM              Marketing: Montella
+Cristea                                         U.Acquisti: Mazzoni
+Caslzolari                                                  Capolli
+Malandra
+Bianco PM
+Abderrahmane
+Ricci
+
+Legenda
+PM = Progect Manager
+TL = Team Leader
