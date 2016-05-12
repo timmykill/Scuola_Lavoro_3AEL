@@ -2,7 +2,7 @@
 
 Studente              | nickname
 --------------------- | ---------------
-Androniachi Nichita   | Nichita-FC
+Andronachi Nichita    | Nichita-FC
 Bertoni Marco         | timmykill
 Bianco Vincenzo       | IlGrandeInquisitore
 Bongiovanni Simone    | LaPertica
