@@ -1,0 +1,18 @@
+SPINE SENSOR
+
+COMPONENTI: -microcontrollore arduino 
+	    -sensore giroscopio/accelerometro (si posiziona sulla maglia tramite una calamita)
+	    -vibratore
+	    -contenitori (uno per il sensore sulla maglia e uno per gli altri componenti sulla cintura)
+	    -alimentazione (batterie al litio)
+       	    -pulsante accensione/set
+
+prototipo: 1= non è possibile posizionare il prototipo sulla cintura, perchè il sensore non sarebbe in grado di rilevare tutte le posizioni scorrette
+	   2= è necessario utilizzare dei fili per i collegamenti dal sensore all'alimentazione e arduino; non si esclude la possibilità futura di sostituire i collegamenti a filo con tecnologia wireless 
+	   3= l'obbiettivo finale è integrare tutto in un piccolo prodotto da posizionare sulla maglia dell'utente (unico contenitore)
+
+FUNZIONAMENTO: 1=si indossa (scatola in vita e sensore con magnete sulla maglia)
+		2=si accende
+		3=dopo un ritardo di 3 sec, il circuito genera tre vibrazioni a seguito delle quali avviene il "settaggio" (il ciruito registra la posizione corretta dell'utente)
+		4=ogniqualvolta l'utente assume una posizione scorretta viene avvisatob dal circuito tramite una vibrazione   	   
+
