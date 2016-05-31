@@ -1,0 +1,20 @@
+CONCORRENZA
+
+-FATTURATO --> COSTI
+	       MARGINI
+-QUANTITA'
+
+
+FATTURATO (PULITO - NO ALTRI PRODOTTI) / PREZZO MEDIO = QUANTITA'
+
+
+
+BUISNESS PLAN
+
+1- Segmentazione		PIANO
+2- Analisi dei competitor	COMMERCIALE
+
+3- Analisi interna		PROTOTIPO
+
+
+Tasso di crescita costante --> Grafico di vendita esponenziale
